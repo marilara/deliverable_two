@@ -1,0 +1,7 @@
+C:\Users\maril\source\repos\FunRecommendationApp\FunRecommendationApp\bin\Debug\FunRecommendationApp.exe.config
+C:\Users\maril\source\repos\FunRecommendationApp\FunRecommendationApp\bin\Debug\FunRecommendationApp.exe
+C:\Users\maril\source\repos\FunRecommendationApp\FunRecommendationApp\bin\Debug\FunRecommendationApp.pdb
+C:\Users\maril\source\repos\FunRecommendationApp\FunRecommendationApp\obj\Debug\FunRecommendationApp.csproj.CoreCompileInputs.cache
+C:\Users\maril\source\repos\FunRecommendationApp\FunRecommendationApp\obj\Debug\FunRecommendationApp.exe
+C:\Users\maril\source\repos\FunRecommendationApp\FunRecommendationApp\obj\Debug\FunRecommendationApp.pdb
+C:\Users\maril\source\repos\FunRecommendationApp\FunRecommendationApp\obj\Debug\FunRecommendationApp.csprojAssemblyReference.cache
